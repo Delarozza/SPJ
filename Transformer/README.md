@@ -1,4 +1,4 @@
-# 🚀 Cvičenie: Kontextové embeddingy a Transformer (SPj)
+# Cvičenie: Kontextové embeddingy a Transformer (SPj)
 
 Tento priečinok obsahuje vypracovanie cvičenia z predmetu **Spracovanie prirodzeného jazyka (SPj)** zameraného na **kontextové embeddingy, architektúru ELMo a Transformer (enkóderové a dekóderové modely)**.
 
@@ -6,16 +6,16 @@ Tento priečinok obsahuje vypracovanie cvičenia z predmetu **Spracovanie prirod
 
 ## 📂 Štruktúra súborov
 
-* 📄 **[`Instruction`](./Instruction)** — pôvodné zadanie a otázky k cvičeniu.
-* 📝 **[`Cvicenie_Transformer.md`](./Cvicenie_Transformer.md)** — kompletná teoretická správa a odpovede na všetky otázky zo zadania v **slovenčine**.
-* 📝 **[`Cvicenie_Transformer_RU.md`](./Cvicenie_Transformer_RU.md)** — podrobný teoretický rozbor a vysvetlenia v **ruštine** (pre jednoduchšie štúdium).
-* 🐍 **[`task.py`](./task.py)** — spustiteľný Python skript realizujúci praktickú časť cvičenia (extrakcia embeddingov pomocou Transformer modelov, výpočet kosínusovej podobnosti, vizualizácia heatmapy).
-* 🖼️ **`similarity_matrix_sk.png`** — matica podobností pre slovenské polysémne slovo *„zámok“*.
-* 🖼️ **`similarity_matrix_en.png`** — matica podobností pre anglické polysémne slovo *„bank“*.
+* **[`Instruction`](./Instruction)** — pôvodné zadanie a otázky k cvičeniu.
+* **[`Cvicenie_Transformer.md`](./Cvicenie_Transformer.md)** — kompletná teoretická správa a odpovede na všetky otázky zo zadania v **slovenčine**.
+* **[`Cvicenie_Transformer_RU.md`](./Cvicenie_Transformer_RU.md)** — podrobný teoretický rozbor a vysvetlenia v **ruštine** (pre jednoduchšie štúdium).
+* **[`task.py`](./task.py)** — spustiteľný Python skript realizujúci praktickú časť cvičenia (extrakcia embeddingov pomocou Transformer modelov, výpočet kosínusovej podobnosti, vizualizácia heatmapy).
+* **`similarity_matrix_sk.png`** — matica podobností pre slovenské polysémne slovo *„zámok“*.
+* **`similarity_matrix_en.png`** — matica podobností pre anglické polysémne slovo *„bank“*.
 
 ---
 
-## ⚙️ Ako spustiť praktickú časť
+## Ako spustiť praktickú časť
 
 Najjednoduchší spôsob priamo z priečinka `Transformer`:
 
