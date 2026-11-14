@@ -1,0 +1,32 @@
+# Generated data and evaluation results (rebuilt on first run)
+/cache/
+
+# Python bytecode, environments and tool caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+/.aws/
+/.codex/
+/.agents/
+/.vscode/
+/.idea/
+
+# Logs, temporary files and project archive
+*.log
+*.tmp
+*.swp
+*~
+/RAG.zip
+.DS_Store
+Thumbs.db
